@@ -1,0 +1,26 @@
+.video p{
+    position: absolute;
+    top: 40%;
+    left: 40%;
+    transform: translate(-40%, -40%);
+    max-height: 80%;
+    max-width: 80%;
+    -webkit-transform: translate(-40%, -40%);
+    -moz-transform: translate(-40%, -40%);
+    -ms-transform: translate(-40%, -40%);
+    -o-transform: translate(-40%, -40%);
+}
+
+.video {
+    height: 100%;
+}
+
+section {
+    margin: 0px !important;
+    padding: 0px !important;
+}
+
+img {
+    max-height: 500px;
+}
+
