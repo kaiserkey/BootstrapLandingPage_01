@@ -24,3 +24,43 @@ img {
     max-height: 500px;
 }
 
+/* media queries */
+
+@media (max-width: 1600px) {
+    .video p {
+        font-size: 3em;
+    }
+}
+
+@media (max-width: 1200px) {
+    .video p {
+        font-size: 2em;
+    }
+}
+
+@media (max-width: 991px) {
+    .video p {
+        font-size: 1.5em;
+    }
+}
+
+@media (max-width: 767px) {
+    .video p {
+        font-size: 1.2em;
+    }
+}
+
+@media (max-width: 480px) {
+    .video p {
+        font-size: 0.8em;
+    }
+}
+
+@media (max-width: 320px) {
+    .video p {
+        font-size: 0.5em;
+    }
+}
+
+
+
